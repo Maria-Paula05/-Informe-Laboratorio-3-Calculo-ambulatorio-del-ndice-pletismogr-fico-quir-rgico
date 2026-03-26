@@ -21,12 +21,16 @@ La guía establece como objetivo general desarrollar un sistema de medición con
 
 # 2.2 Objetivos específicos
 
-Reconocer las características fundamentales de la onda de pulso a partir de las cuales se obtiene el SPI.
-Implementar un sistema de adquisición de señal PPG usando el sensor MAX30102 en lugar del circuito analógico propuesto en la guía.
-Desarrollar un algoritmo en MATLAB capaz de capturar la señal, detectar máximos y mínimos y calcular el SPI en tiempo real.
-Evaluar el comportamiento del SPI en reposo y durante una maniobra fisiológica tipo Cold Pressor Test.
-Analizar el alcance y las limitaciones del sistema implementado para la estimación indirecta de nocicepción.
-Estos objetivos conservan la intención de la guía, que pide reconocer las características de la onda de pulso, construir un sistema que calcule el SPI en tiempo real y validarlo con una maniobra similar al dolor agudo.
+-Reconocer las características fundamentales de la onda de pulso a partir de las cuales se obtiene el SPI.
+
+-Implementar un sistema de adquisición de señal PPG usando el sensor MAX30102 en lugar del circuito analógico propuesto en la guía.
+
+-Desarrollar un algoritmo en MATLAB capaz de capturar la señal, detectar máximos y mínimos y calcular el SPI en tiempo real.
+
+-Evaluar el comportamiento del SPI en reposo y durante una maniobra fisiológica tipo Cold Pressor Test.
+
+-Analizar el alcance y las limitaciones del sistema implementado para la estimación indirecta de nocicepción.
+
 
 # 3. Descripción general de la práctica
 
