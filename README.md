@@ -37,10 +37,15 @@ La guía plantea el diseño y elaboración de un sistema capaz de suministrar co
 # 4.1 Materiales del laboratorio
 
 -Computador con acceso a Internet
+
 -MATLAB
+
 -Arduino UNO o LEONARDO
+
 -Cables de conexión(Jumpers)
+
 -Sensor PPG MAX30102
+
 -Fuente de alimentación USB de 5 V
 
 # 4.2 Aclaración sobre la modificación del montaje
