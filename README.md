@@ -3,7 +3,9 @@
 # Integrantes
 
 -María Paula Fernández Jiménez
+
 -Jhonathan David Guevara Ramírez
+
 -Juan Pablo Díaz Rocha
 
 # 1. Introducción
@@ -62,7 +64,7 @@ La guía plantea el diseño y elaboración de un sistema capaz de suministrar co
 
 # 4.2 Aclaración sobre la modificación del montaje
 
-En la guía original se solicita construir un circuito en proto-board con resistencias, condensadores, transistor 2N3904, sensor de reflectancia TCRT1000 o TCST110 y amplificador operacional LM358. En este informe no se utilizará ese circuito, sino un sensor MAX30102 para adquirir directamente la señal PPG. Esta adaptación reemplaza específicamente la etapa de sensado y acondicionamiento propuesta en la Parte A, pero no modifica el objetivo de capturar las variaciones del volumen sanguíneo periférico ni el posterior cálculo del SPI. La guía sí lista esos componentes como parte de los materiales del estudiante y describe la construcción del circuito en la Parte A.
+En la guía original se solicita construir un circuito en proto-board con resistencias, condensadores, transistor 2N3904, sensor de reflectancia TCRT1000 o TCST110 y amplificador operacional LM358. En este informe no se utilizará ese circuito, sino un sensor MAX30102 para adquirir directamente la señal PPG. Esta adaptación reemplaza específicamente la etapa de sensado y acondicionamiento propuesta en la guiía, pero no modifica el objetivo de capturar las variaciones del volumen sanguíneo periférico ni el posterior cálculo del SPI. La guía sí lista esos componentes como parte de los materiales del estudiante y describe la construcción del circuito.
 
 # 5. Procedimiento
 
@@ -776,7 +778,9 @@ El sistema implementado permitió capturar la señal fotopletismográfica perif�
 
 
 SPI promedio en reposo: 0.37%
+
 SPI promedio durante CPT: 0.54%
+
 SPI promedio en recuperación: 0.42%
 
 # 7. Análisis de resultados
