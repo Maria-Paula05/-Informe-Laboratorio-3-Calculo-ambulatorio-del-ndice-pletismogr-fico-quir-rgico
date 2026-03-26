@@ -1,4 +1,4 @@
-# Informe Laboratorio 3 : Calculo ambulatorio del índice pletismográfico quirúrgico
+# Informe Laboratorio 3 : Cálculo ambulatorio del índice pletismográfico quirúrgico
 
 # Integrantes
 
@@ -769,9 +769,10 @@ Se realizó una captura total de 40 segundos, en concordancia con la guía. El s
 
 Figura 2.Gráfica de la señal PPG adquirida con el MAX30102.
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/02bb320b-ae72-46bc-8a26-ca3ec0ce9045" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/14f1ae3e-5629-4c1e-88f5-4261e18d238f" />
 
-Figura 3.Detección de máximos y mínimos sobre la señal.
+
+Figura 3.Detección de máximos sobre la señal.
 
 
 El sistema implementado permitió capturar la señal fotopletismográfica periférica de manera continua mediante el sensor MAX30102 durante 40 s. La señal obtenida presentó una morfología pulsátil identificable, lo que permitió detectar máximos y mínimos asociados a cada latido. A partir de estas características se estimó el SPI en tiempo real y se observó su variación a lo largo del protocolo experimental. Durante la fase basal se registraron valores relativamente estables; durante la maniobra Cold Pressor Test se observó un incremento del índice, mientras que en la fase final de recuperación los valores tendieron a aproximarse nuevamente a la línea base.
