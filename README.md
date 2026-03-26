@@ -1,4 +1,4 @@
-# -Informe-Laboratorio-3-Calculo-ambulatorio-del-ndice-pletismogr-fico-quir-rgico
+# Informe Laboratorio 3 : Calculo ambulatorio del índice pletismográfico quirúrgico
 
 # 1. Introducción
 
